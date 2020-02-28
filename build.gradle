@@ -60,6 +60,7 @@ ext {
 
     // Test dependencies
     junitVersion = '4.12'
+    junitExtVersion = '1.1.0'
     espressoVersion = '3.1.0'
     mockitoVersion = '2.15.0'
 }
