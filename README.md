@@ -1,2 +1,0 @@
-# rmvvmsample
-Implement RMVVM
